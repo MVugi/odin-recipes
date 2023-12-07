@@ -10,4 +10,4 @@ Lists
 Links (absolute and relative)
 Images
 
-Git Commits
+Git Commit comment exercise
